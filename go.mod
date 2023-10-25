@@ -31,7 +31,7 @@ require (
 	golang.org/x/time v0.3.0
 	golang.org/x/tools v0.14.0
 	google.golang.org/api v0.128.0
-	google.golang.org/grpc v1.56.1
+	google.golang.org/grpc v1.56.3
 	gopkg.in/yaml.v3 v3.0.1
 	honnef.co/go/tools v0.4.6
 	mvdan.cc/unparam v0.0.0-20230917202934-3ee2d22f45fb
