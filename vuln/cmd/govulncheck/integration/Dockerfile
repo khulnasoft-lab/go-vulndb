@@ -1,4 +1,4 @@
-FROM golang:1.20.3-alpine
+FROM golang:1.21.5-alpine
 
 # This Dockerfile sets up an image for repeated integration testing.
 # This assumes the build context, i.e., CWD is vuln/
