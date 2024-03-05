@@ -6,7 +6,7 @@ require golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 
 require (
 	cloud.google.com/go/errorreporting v0.3.0
-	cloud.google.com/go/firestore v1.9.0
+	cloud.google.com/go/firestore v1.15.0
 	cloud.google.com/go/secretmanager v1.11.2
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go v1.0.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.26.0
