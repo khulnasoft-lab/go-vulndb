@@ -16,7 +16,7 @@ require (
 	github.com/go-git/go-git/v5 v5.7.0
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-github/v41 v41.0.0
-	github.com/google/osv-scanner v1.3.4
+	github.com/google/osv-scanner v1.7.1
 	github.com/google/safehtml v0.1.0
 	github.com/jba/templatecheck v0.6.0
 	github.com/lib/pq v1.10.9
