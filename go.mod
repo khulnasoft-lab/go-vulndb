@@ -10,7 +10,7 @@ require (
 	cloud.google.com/go/secretmanager v1.11.2
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go v1.0.0
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.26.0
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v1.0.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v1.22.0
 	github.com/client9/misspell v0.3.4
 	github.com/go-git/go-billy/v5 v5.4.1
 	github.com/go-git/go-git/v5 v5.7.0
